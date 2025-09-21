@@ -1,4 +1,4 @@
-# 🌐 Portfolio Web
+# 🌐 Portafolio Web
 
 Este es mi portafolio personal, creado para mostrar mis **proyectos, experiencia y skills** como desarrollador.  
 Construido con **React + Vite + TailwindCSS**, usando **Bun** como runtime y preparado para desplegar en **GitHub Pages**.
